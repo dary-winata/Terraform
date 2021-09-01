@@ -1,0 +1,7 @@
+do_tokens = ""
+droplet_image = ""
+droplet_size = ""
+terraform_version = ""
+droplet_name = ""
+droplet_region = ""
+ssh_name = ""
